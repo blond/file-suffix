@@ -1,6 +1,6 @@
 {
   "name": "file-suffix",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A file suffix is a substring of basename after the first dot",
   "license": "MIT",
   "repository": "blond/file-suffix",
