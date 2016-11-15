@@ -1,0 +1,38 @@
+{
+  "name": "file-suffix",
+  "version": "0.0.0",
+  "description": "A file suffix is a substring of basename after the first dot",
+  "license": "MIT",
+  "repository": "blond/file-stem",
+  "author": "Andrew Abramov <mail@blond.im> (github.com/blond)",
+  "keywords": [
+    "file",
+    "path",
+    "suffix",
+    "complex",
+    "extname",
+    "ext",
+    "extension"
+  ],
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "engines": {
+    "node": ">= 4.0"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "ava": "^0.16.0",
+    "coveralls": "^2.11.15",
+    "eslint": "^3.10.0",
+    "eslint-config-pedant": "^0.8.0",
+    "nyc": "^9.0.1"
+  },
+  "scripts": {
+    "pretest": "eslint .",
+    "test": "nyc ava",
+    "unit-test": "ava",
+    "coveralls": "nyc report --reporter=text-lcov | coveralls"
+  }
+}

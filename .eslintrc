@@ -1,0 +1,8 @@
+parserOptions:
+  ecmaVersion: 2016
+
+env:
+  node: true
+  es6: true
+
+extends: pedant
