@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A file suffix is a substring of basename after the first dot",
   "license": "MIT",
-  "repository": "blond/file-stem",
+  "repository": "blond/file-suffix",
   "author": "Andrew Abramov <mail@blond.im> (github.com/blond)",
   "keywords": [
     "file",
