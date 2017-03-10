@@ -1,6 +1,8 @@
 file-suffix
 ===========
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/blond/file-suffix.svg)](https://greenkeeper.io/)
+
 [![NPM Status][npm-img]][npm]
 [![Travis Status][test-img]][travis]
 [![Windows Status][appveyor-img]][appveyor]
