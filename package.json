@@ -27,7 +27,7 @@
     "coveralls": "^3.0.0",
     "eslint": "^4.1.0",
     "eslint-config-pedant": "^0.10.0",
-    "nyc": "^11.0.0"
+    "nyc": "^11.3.0"
   },
   "scripts": {
     "pretest": "eslint .",
